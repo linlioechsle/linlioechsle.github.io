@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family:'Times-New-Roman', 'Times-New-Roman', 'Times-New-Roman';
+    font-family:'Futura';
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -14,14 +14,14 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #7EB;
 }
 a:hover {
     text-decoration: underline;
 }
 h1 {
     font-size: 3em;
-    font-family:'Times-New-Roman', 'Times-New-Roman', 'Times-New-Roman';
+    font-family:'Futura';
 }
 p {
     font-size: 1.5em;
